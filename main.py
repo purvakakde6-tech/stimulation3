@@ -1,6 +1,4 @@
-Here is the exact, complete, and updated code for `simulation.py`:
 
-```python
 import pygame
 import random
 import math
@@ -619,4 +617,4 @@ while running:
 
 pygame.quit()
 sys.exit()
-```
+
